@@ -1,6 +1,9 @@
 {
-  "autoUpdatesChannel": "latest",
   "env": {
     "CLAUDE_CODE_USE_POWERSHELL_TOOL": "1"
-  }
+  },
+  "enableWorkflows": true,
+  "autoUpdatesChannel": "latest",
+  "agentPushNotifEnabled": false,
+  "inputNeededNotifEnabled": false
 }
